@@ -41,6 +41,8 @@ The project is implemented in **Python** using the following libraries:
    ```
 4. Run all cells to see the analysis and train the model.
 
+**You can also download the PDF file of the analysis from the repository.**
+
 ## 📈 Model Performance
 The Random Forest Classifier was tuned using `GridSearchCV` to find the best hyperparameters. The final model achieves a competitive accuracy score on the test set.
 
